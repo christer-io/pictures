@@ -1,2 +1,2 @@
-# pictures
-My pictures - shared under a CC-BY-SA license
+# PicturesChrister
+Pictures taken by Christer Gundersen - released under a free licenses
